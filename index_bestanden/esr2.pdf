@@ -1,0 +1,188 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20171013094523+02'00')
+/ModDate (D:20171013094523+02'00')
+/Title (ESR2)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 5990 >>
+stream
+
+1.000 1.000 1.000 rg
+34.016 34.016 527.249 773.859 re f
+0.000 0.000 0.000 rg
+BT 34.016 796.153 Td /F1 12.0 Tf  [(ESR2 - Multi-modality imaging for treatment planning of selective internal radionuclide therapy )] TJ ET
+BT 34.016 781.501 Td /F1 12.0 Tf  [(\(SIRT\))] TJ ET
+BT 34.016 754.849 Td /F2 12.0 Tf  [(HOST INSTITUTION:)] TJ ET
+BT 150.020 754.849 Td /F1 12.0 Tf  [( University of Leuven \(KU Leuven\))] TJ ET
+BT 34.016 728.197 Td /F1 12.0 Tf  [(Situated in Belgium, KU Leuven has been a centre of learning for nearly six centuries. Today, it is )] TJ ET
+BT 34.016 713.545 Td /F1 12.0 Tf  [(Belgium's largest university and, founded in 1425, one of the oldest and most renowned )] TJ ET
+BT 34.016 698.893 Td /F1 12.0 Tf  [(universities in Europe. The Medical Imaging Research Center \(MIRC\) is an interdisciplinary )] TJ ET
+BT 34.016 684.241 Td /F1 12.0 Tf  [(research center in the University Hospital Leuven. The focus is on fundamental and translational )] TJ ET
+BT 34.016 669.589 Td /F1 12.0 Tf  [(research in the area of medical imaging and image  processing.  The  center  is  a  joined  )] TJ ET
+BT 34.016 654.937 Td /F1 12.0 Tf  [(initiative  of  the  KU  Leuven  \(Biomedical  Sciences\)  and  the University  Hospitals  Leuven.  )] TJ ET
+BT 34.016 640.285 Td /F1 12.0 Tf  [(Over  100  engineers,  physicians  and  physicists  are  working  closely  together with bioscientists )] TJ ET
+BT 34.016 625.633 Td /F1 12.0 Tf  [(and clinicians. MIRC-members are the Dept of Electrical Engineering \(PSI\), the Dept of Imaging )] TJ ET
+BT 34.016 610.981 Td /F1 12.0 Tf  [(and Pathology \(Radiology and Nuclear Medicine\), the Dept of Cardiovascular Sciences, the Dept )] TJ ET
+BT 34.016 596.329 Td /F1 12.0 Tf  [(of Neurosciences and the Dept of Radiotherapy.)] TJ ET
+BT 34.016 569.677 Td /F1 12.0 Tf  [(The division of Nuclear Medicine is based at the University Hospital Leuven, and is part of the )] TJ ET
+BT 34.016 555.025 Td /F1 12.0 Tf  [(Faculty of Medicine of the Leuven University. Its mission is centered around the four poles of a )] TJ ET
+BT 34.016 540.373 Td /F1 12.0 Tf  [(university hospital: health care, research, education and community service. The medical physics )] TJ ET
+BT 34.016 525.721 Td /F1 12.0 Tf  [(team has considerable expertise in medical imaging, and in particular in image reconstruction for )] TJ ET
+BT 34.016 511.069 Td /F1 12.0 Tf  [(PET, SPECT and CT.)] TJ ET
+BT 34.016 472.417 Td /F2 12.0 Tf  [(DESCRIPTION OF THE ADVERTISED POSITION \(ESR2\))] TJ ET
+BT 34.016 445.765 Td /F1 12.0 Tf  [(This is a 3 year full time position as an early stage researcher \(ESR\) under the auspice of the ITN )] TJ ET
+BT 34.016 431.113 Td /F1 12.0 Tf  [(program, further extended with 1 year to a 4 year PhD-program. The successful candidate will )] TJ ET
+BT 34.016 416.461 Td /F1 12.0 Tf  [(develop and validate algorithms for personalized treatment planning and treatment verification in )] TJ ET
+BT 34.016 401.809 Td /F1 12.0 Tf  [(selective internal radionuclide therapy \(SIRT\) for patients suffering from tumors or metastases in )] TJ ET
+BT 34.016 387.157 Td /F1 12.0 Tf  [(the liver. SIRT involves the selective arterial injection of radioactive microspheres \()] TJ ET
+BT 471.488 391.942 Td /F1 10.7 Tf  [(90)] TJ ET
+BT 483.349 387.157 Td /F1 12.0 Tf  [(Y, a beta )] TJ ET
+BT 34.016 372.505 Td /F1 12.0 Tf  [(emitter\), maximizing their uptake in the tumor cells and minimizing the uptake in healthy tissues. )] TJ ET
+BT 34.016 357.853 Td /F1 12.0 Tf  [(Treatment planning is done with SPECT/CT \(using )] TJ ET
+BT 306.116 362.638 Td /F1 10.7 Tf  [(99m)] TJ ET
+BT 326.862 357.853 Td /F1 12.0 Tf  [(Tc-MAA\), PET \(using )] TJ ET
+BT 443.550 362.638 Td /F1 10.7 Tf  [(18)] TJ ET
+BT 455.412 357.853 Td /F1 12.0 Tf  [(F-FDG\) with CT or )] TJ ET
+BT 34.016 343.201 Td /F1 12.0 Tf  [(MR, and contrast enhanced cone beam CT. Treatment verification will be done with TOF-PET/MR. )] TJ ET
+BT 34.016 328.549 Td /F1 12.0 Tf  [(This multi modal imaging creates a wealth of information which is currently under-used. The aim of )] TJ ET
+BT 34.016 313.897 Td /F1 12.0 Tf  [(this project is to develop dedicated image alignment \(registration\) and segmentation techniques  in )] TJ ET
+BT 34.016 299.245 Td /F1 12.0 Tf  [(order to extract more information from these images. This will lead to more accurate dose )] TJ ET
+BT 34.016 284.593 Td /F1 12.0 Tf  [(calculations and treatment verification, which in turn will improve the efficacy of the therapy.  )] TJ ET
+BT 34.016 269.941 Td /F1 12.0 Tf  [(Treatment verification with PET is challenging, because )] TJ ET
+BT 332.132 274.726 Td /F1 10.7 Tf  [(90)] TJ ET
+BT 343.993 269.941 Td /F1 12.0 Tf  [(Y emits only 32 positrons per million )] TJ ET
+BT 34.016 255.289 Td /F1 12.0 Tf  [(disintegrations \(producing very noisy data\). Therefore, this project also involves the evaluation and )] TJ ET
+BT 34.016 240.637 Td /F1 12.0 Tf  [(further development of PET reconstruction algorithms to suppress noise and at the same time )] TJ ET
+BT 34.016 225.985 Td /F1 12.0 Tf  [(maintain a good spatial resolution.)] TJ ET
+BT 34.016 199.333 Td /F1 12.0 Tf  [(This work will be done in collaboration with Mirada Medical, Oxford, UK, a company which )] TJ ET
+BT 34.016 184.681 Td /F1 12.0 Tf  [(develops and commercializes medical imaging software, including software dedicated to treatment )] TJ ET
+BT 34.016 170.029 Td /F1 12.0 Tf  [(planning and treatment verification based on multimodal imaging. Therefore, there will be regular )] TJ ET
+BT 34.016 155.377 Td /F1 12.0 Tf  [(secondments to Mirada Medical. In addition, the project may include short-term visits to different )] TJ ET
+BT 34.016 140.725 Td /F1 12.0 Tf  [(HYBRID partners for phantom experiments.)] TJ ET
+BT 34.016 102.073 Td /F2 12.0 Tf  [(SPECIAL REQUIREMENTS)] TJ ET
+BT 34.016 75.421 Td /F1 12.0 Tf  [(- A degree in a mathematical discipline e.g. physics, engineering, computer science \(MSc or )] TJ ET
+BT 34.016 60.769 Td /F1 12.0 Tf  [(equivalent\) )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 12 0 R ]
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 804 >>
+stream
+
+0.000 0.000 0.000 rg
+1.000 1.000 1.000 rg
+34.016 34.016 527.249 773.859 re f
+0.000 0.000 0.000 rg
+BT 34.016 796.153 Td /F1 12.0 Tf  [(- Strong interest in algorithm design and software development, and solid knowledge of at least )] TJ ET
+BT 34.016 781.501 Td /F1 12.0 Tf  [(one programming language \(e.g. matlab, python, idl, C, R, …\))] TJ ET
+BT 34.016 766.849 Td /F1 12.0 Tf  [(- Good command of the English language)] TJ ET
+BT 34.016 752.197 Td /F1 12.0 Tf  [(- Willingness to travel and flexibility)] TJ ET
+BT 34.016 737.545 Td /F1 12.0 Tf  [(- Good communication skills \(a pre-requisite for cooperating in a multi-disciplinary environment\))] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 710.893 Td /F1 12.0 Tf  [(Apply)] TJ ET
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+34.016 708.493 m 64.028 708.493 l S
+endstream
+endobj
+12 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 13 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 709.7827 64.0277 721.9927 ]
+>>
+endobj
+13 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.hybrid2020.eu/application.html)
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000290 00000 n 
+0000000319 00000 n 
+0000000447 00000 n 
+0000000510 00000 n 
+0000006552 00000 n 
+0000006659 00000 n 
+0000006771 00000 n 
+0000006855 00000 n 
+0000007711 00000 n 
+0000007837 00000 n 
+trailer
+<<
+/Size 14
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+7931
+%%EOF
